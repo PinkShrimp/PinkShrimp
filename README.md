@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PinkShrimp
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning C and C++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
